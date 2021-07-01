@@ -10,7 +10,7 @@
 
      1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634
 
- #The Challenge:
+ # The Challenge:
 
  Your code must return true or false depending upon whether the given number is a Narcissistic number in base 10.
 
